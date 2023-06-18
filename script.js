@@ -62,7 +62,7 @@ function generatePassword() {
     }
 
     //return it
-    return(completedPassword.join(''));
+    return(generationComplete.join(''));
 }
 
 // Get references to the #generate element
