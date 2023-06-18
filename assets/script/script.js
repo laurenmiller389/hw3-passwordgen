@@ -2,10 +2,10 @@
 //FUNCTIONS
 function generatePassword() {
     //need a prompt for the user
-    var passwordLength = prompt("please input a password length that is at least eight characters but no mnore than 128 characters.");
+    var passwordLength = prompt("please input a password length that is at least eight characters but no nore than 128 characters.");
 
     while(!((passwordLength > 8) && (passwordLength < 128))) {
-        alert("password must be at least 8 characters and no nore than 128 characters.");
+        alert("password must be at least 8 characters and no more than 128 characters.");
         return generatePassword();
     }
 
