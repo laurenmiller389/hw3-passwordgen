@@ -19,6 +19,8 @@ No installations are required for this project.
 
 To get the application running, click on the deployment link and then click 'Generate Password'
 
+Deployment link: https://laurenmiller389.github.io/hw3-passwordgen/
+
 ![screenshot of the input](./screenshot.png)
 
 ## Credits
